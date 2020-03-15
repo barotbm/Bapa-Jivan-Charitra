@@ -8,6 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace Bapa_JivanCharitra
 {
+    // TODO: start up for the Jivan Charitra App.
     public class Startup
     {
         public Startup(IConfiguration configuration)
